@@ -1,0 +1,27 @@
+<resources>
+    <string name="frag_name">ColorFragment</string>
+    <string-array name="colors_en">
+        <item> WHITE </item>
+        <item> TEAL </item>
+        <item> AQUA </item>
+        <item> BLUE </item>
+        <item> CYAN </item>
+        <item> GREEN </item>
+        <item> LIME </item>
+        <item> YELLOW </item>
+        <item> RED </item>
+        <item> BLACK </item>
+    </string-array>
+    <string-array name="colors_es">
+        <item> WHITE </item>
+        <item> TEAL </item>
+        <item> AQUA </item>
+        <item> BLUE </item>
+        <item> CYAN </item>
+        <item> GREEN </item>
+        <item> LIME </item>
+        <item> YELLOW </item>
+        <item> RED </item>
+        <item> BLACK </item>
+    </string-array>
+</resources>
